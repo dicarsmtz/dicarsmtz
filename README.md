@@ -5,7 +5,7 @@
 Experienced software engineer with a strong track record in full-stack development, consistently exceeding expectations through a blend of technical expertise and collaborative problem-solving. Passionate about leveraging cutting-edge tools and working within diverse teams to achieve ambitious goals. Committed to continuous skill enhancement and driving success through a well-rounded skill set
 
 - 🌍  I'm based in Costa Rica
-- 🖥️  See my portfolio at [amdaor.dev](http://amdaor.dev)
+- 🖥️  See my portfolio/blog at [amdaor.dev](http://amdaor.dev) (Work in progress)
 - ✉️  You can contact me at [ado.mar.2019@gmail.com](mailto:ado.mar.2019@gmail.com)
 - 🧠  I'm learning Software Architecture | Cloud | Spring Boot
 - 🤝  I'm open to collaborating on interestins projects
