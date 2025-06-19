@@ -1,10 +1,10 @@
-# Hi there, I'm Adolfo 👋
+# Hi there, I'm Di Carlo 👋
 
 I'm a full-stack software engineer from Costa Rica, focused on building scalable, maintainable, and high-impact systems. I specialize in backend development with experience across enterprise applications, government systems, and education platforms.
 
 ### 🔧 Tech Stack
-- **Languages**: Java, Python, TypeScript, Golang, SQL  
-- **Frameworks**: Spring Boot, Django, FastAPI, NestJS, React  
+- **Languages**: Java, Python, TypeScript, Ruby, Golang, SQL  
+- **Frameworks**: Spring Boot, Django, FastAPI, NestJS, Ruby on Rails, React  
 - **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB, Redis  
 - **Cloud & DevOps**: AWS (RDS, S3, Lambda, SQS, CloudWatch), Docker, Kubernetes  
 - **Architecture**: Microservices, REST APIs, Monoliths, Distributed Systems
@@ -15,4 +15,4 @@ I'm a full-stack software engineer from Costa Rica, focused on building scalable
 
 ---
 
-📫 Reach me at [linkedin.com/in/dicodeit](https://linkedin.com/in/dicodeit) or check out my work at [github.com/dicodeit](https://github.com/dicodeit)
+📫 Reach me at [linkedin.com/in/dicodeit](https://linkedin.com/in/dicarsmtz) or check out other platforms at [linktr.ee/dicarsmtz](https://linktr.ee/dicarsmtz)
