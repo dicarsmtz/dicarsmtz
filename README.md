@@ -15,4 +15,4 @@ I'm a full-stack software engineer from Costa Rica, focused on building scalable
 
 ---
 
-📫 Reach me at [linkedin.com/in/dicodeit](https://linkedin.com/in/dicarsmtz) or check out other platforms at [linktr.ee/dicarsmtz](https://linktr.ee/dicarsmtz)
+📫 Reach me at [linkedin.com/in/dicarsmtz](https://linkedin.com/in/dicarsmtz) or check out other platforms at [linktr.ee/dicarsmtz](https://linktr.ee/dicarsmtz)
