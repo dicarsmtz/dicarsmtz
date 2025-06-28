@@ -1,6 +1,6 @@
 # Hi there, I'm Di Carlo 👋
 
-I'm a full-stack software engineer from Costa Rica, focused on building scalable, maintainable, and high-impact systems. I specialize in backend development with experience across enterprise applications, government systems, and education platforms.
+I'm a full-stack software engineer from Costa Rica with a strong focus on backend development. I specialize in building scalable, maintainable, and high-impact systems, with experience spanning enterprise applications, government platforms, and educational technology.
 
 ### 🔧 Tech Stack
 - **Languages**: Java, Python, TypeScript, Ruby, Golang, SQL  
@@ -10,8 +10,8 @@ I'm a full-stack software engineer from Costa Rica, focused on building scalable
 - **Architecture**: Microservices, REST APIs, Monoliths, Distributed Systems
 
 ### 🎓 Education
-- B.S. in Computer Systems Engineering (2025), National University of Costa Rica  
-- Diploma in Software Engineering (2022), National University of Costa Rica  
+- B.S. in Computer Systems Engineering, National University of Costa Rica  
+- Diploma in Software Engineering, National University of Costa Rica  
 
 ---
 
