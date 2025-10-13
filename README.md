@@ -3,8 +3,8 @@
 I'm a full-stack software engineer from Costa Rica with a strong focus on backend development. I specialize in building scalable, maintainable, and high-impact systems, with experience spanning enterprise applications, government platforms, and educational technology.
 
 ### 🔧 Tech Stack
-- **Languages**: Python, TypeScript/JavaScript, SQL.
-- **Frameworks**: Django, Node.js, ExpressJs, React.
+- **Languages**: Ruby, Python, TypeScript/JavaScript, SQL.
+- **Frameworks**: Ruby on Rails, Django, Node.js, ExpressJs, React.
 - **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB, Redis.  
 - **Cloud & DevOps**: AWS, Docker, Kubernetes.  
 - **Architecture**: Monoliths, REST APIs, Distributed Systems, Microservices.
