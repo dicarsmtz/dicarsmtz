@@ -1,10 +1,10 @@
 # Hi there, I'm Di Carlo 👋
 
-I'm a full-stack software engineer from Costa Rica with a strong focus on backend development. I specialize in building scalable, maintainable, and high-impact systems, with experience spanning enterprise applications, government platforms, and educational technology.
+I'm a software engineer from Costa Rica with a strong focus on backend development. I specialize in building scalable, maintainable, and high-impact systems with experience across fintech, enterprise applications, government platforms, and educational technology.
 
 ### 🔧 Tech Stack
-- **Languages**: Ruby, Python, TypeScript/JavaScript, SQL.
-- **Frameworks**: Ruby on Rails, Django, Node.js, ExpressJs, React.
+- **Languages**: Python, Java, TypeScript/JavaScript, SQL.
+- **Frameworks**: FastAPI, Spring Boot, Node.js, ExpressJs, React.
 - **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB, Redis.  
 - **Cloud & DevOps**: AWS, Docker, Kubernetes.  
 - **Architecture**: Monoliths, REST APIs, Distributed Systems, Microservices.
