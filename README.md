@@ -4,7 +4,7 @@ I'm a software engineer from Costa Rica with a strong focus on backend developme
 
 ### 🔧 Tech Stack
 - **Languages**: Python, Java, TypeScript/JavaScript, SQL.
-- **Frameworks**: FastAPI, Spring Boot, Node.js, ExpressJs, React.
+- **Frameworks**: FastAPI, Spring Boot, Node.js, ExpressJs, NestJS, React.
 - **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB, Redis.  
 - **Cloud & DevOps**: AWS, Docker, Kubernetes.  
 - **Architecture**: Monoliths, REST APIs, Distributed Systems, Microservices.
